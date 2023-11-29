@@ -1,8 +1,8 @@
-[|[MasterHead](https://images.app.goo.gl/7UwqCscasZCXyc7P8)
+[|[MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
 <h1 align="center">Hi 👋, I'm Milap-narola</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://images.app.goo.gl/m9Sk94YZtQ6ARoUg6”>
+<img align=“right” alt=“coding” width=“400” src=“https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?resize=1024%2C1024&ssl=1”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milap-narola&label=Profile%20views&color=0e75b6&style=flat" alt="milap-narola" /> </p>
 

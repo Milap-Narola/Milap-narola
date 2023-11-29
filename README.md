@@ -1,3 +1,4 @@
+[|[MasterHead](https://images.app.goo.gl/7UwqCscasZCXyc7P8)
 <h1 align="center">Hi 👋, I'm Milap-narola</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/milapnarola" target="blank"><img src="https://img.shields.io/twitter/follow/milapnarola?logo=twitter&style=for-the-badge" alt="milapnarola" /></a> </p>
 
-- 🌱 I’m currently learning **full stack developer**
+- 🌱 I’m currently learning **full stack developer** 
 
 - 💬 Ask me about **c-language**
 

@@ -1,8 +1,8 @@
-[![MasterHead](https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?resize=1024%2C1024&ssl=1)
+[![MasterHead](https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?200%2C200&ssl=1)
 <h1 align="center">Hi 👋, I'm Milap-narola</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://images.app.goo.gl/4EQLCVpDxw8k8yeN9”>
+<img align=“right” alt=“coding” height="100" width=“100” src=“https://images.app.goo.gl/4EQLCVpDxw8k8yeN9”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milap-narola&label=Profile%20views&color=0e75b6&style=flat" alt="milap-narola" /> </p>
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milap-narola</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align=“right” alt=“coding” height="100" width=“100” src=“https://images.app.goo.gl/4EQLCVpDxw8k8yeN9”>
+<img align=“right” alt=“milap” height="200" width=“200” src=“https://images.app.goo.gl/4EQLCVpDxw8k8yeN9”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milap-narola&label=Profile%20views&color=0e75b6&style=flat" alt="milap-narola" /> </p>
 

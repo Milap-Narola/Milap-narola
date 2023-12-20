@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **full stack developer** 
 
-- 💬 Ask me about **c-language**,**HTML**
+- 💬 Ask me about **C-Language**,**HTML**
 
 - 📫 How to reach me **Milap5322@gmail.com**
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milap-narola</h1>
 <h3 align="center">A passionate full stack developer student from India</h3>
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230117191122/FrontEnd-vs-BackEnd.gif" height="240" width="480"/>
+<img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" height="300" width="480" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milap-narola&label=Profile%20views&color=0e75b6&style=flat" alt="milap-narola" /> </p>
 

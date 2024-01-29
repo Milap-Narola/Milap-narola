@@ -4,7 +4,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" height="300" width="480" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milap-narola&label=Profile%20views&color=0e75b6&style=flat" alt="milap-narola" /> </p>
+
 
 
 - 🌱 I’m currently learning **full stack developer** 

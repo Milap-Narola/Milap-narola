@@ -1,4 +1,4 @@
-[![Head Banner](https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?50%2C50&ssl=1 )
+[![Head Banner]( https://i0.wp.com/rad-code.sbs/wp-content/uploads/2023/07/hello-world.gif?50%2C50&ssl=1 )
 <h1 align="center">Hi 👋, I'm Milap-narola</h1>
 <h3 align="center">A passionate full stack developer student from India</h3>
 

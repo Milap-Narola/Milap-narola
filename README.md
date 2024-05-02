@@ -8,13 +8,13 @@
 <img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" height="300" width="480" /><br>
 
 
- - 🌱 I’m currently learning full stack developer
+ - 🌱 **I’m currently learning full stack developer**
 
-- 💬 Ask me about C-Language,HTML,CSS,BOOTSTRAP,JQUERY
+- 💬 **Ask me about** **:-:** **C-Language**,**HTML**,**CSS**,**BOOTSTRAP**,**JQUERY**
 
-- 📫 How to reach me **Milap5322@gmail.com**
+- 📫 **How to reach me** **:-:** **Milap5322@gmail.com**
 
-- ⚡ Fun fact **i am 😎**
+- ⚡ **Fun fact** ***-|-** **i am 😎**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">

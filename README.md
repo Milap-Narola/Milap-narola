@@ -1,7 +1,7 @@
 ![hello-world (1)](https://github.com/Milap-Narola/Milap-narola/assets/148769224/d536d5b6-4a61-4ad4-817e-4f8a046c9fe5)
 
 
-<h1 align="center"> 🇮🇳 I'M Milap narola 🇮🇳</h1>
+<h1 align="center"> -_- Milap narola -_-</h1>
 <h3 align="center">A passionate full stack developer student</h3>
 <br>
 <br> 
@@ -10,7 +10,7 @@
 
  - 🌱 **I’m currently learning full stack developer**
 
-- 💬 **Ask me about** **:-:** **C-Language**,**HTML**,**CSS**,**BOOTSTRAP**,**JQUERY**
+- 💬 **Ask me about** **:-:** **C-Language** ,**HTML** ,**CSS** ,**BOOTSTRAP** ,**JQUERY** ,**JAVASCRIPT**
 
 - 📫 **How to reach me** **:-:** **Milap5322@gmail.com**
 

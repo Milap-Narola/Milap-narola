@@ -14,7 +14,7 @@
 
 - 📫 **How to reach me** **:-:** **Milap5322@gmail.com**
 
-- ⚡ **Fun fact** ***-|-** **i am 😎**
+- ⚡ **Fun fact** **i am 😎**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">

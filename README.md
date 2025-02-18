@@ -10,9 +10,11 @@
 
  - 🌱 **I’m currently learning full stack developer**
 
-- 💬 **Ask me about** **:-:** **C-Language** ,**HTML** ,**CSS** ,**BOOTSTRAP** ,**JQUERY** ,**JAVASCRIPT**,**POSTMAN**,**NODE**
-
-- 📫 **How to reach me** **:-:** **Milap5322@gmail.com**
+- 💬 **Ask Me About** --   **C-Language**,**HTML5**,**CSS3**
+- **JAVASCRIPT**,**BOOTSTRAP**,**TAILWIND**,**JQUERY**
+- **POSTMAN**,**NODEJS**,**REACTJS**
+- **MONGODB**,**MYSQL**,**POSTGRES**
+-  📫 **How to reach me** **:-:** **Milap5322@gmail.com**
 
 - ⚡ **Fun fact** **i am 😎**
 
